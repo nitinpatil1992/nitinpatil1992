@@ -1,4 +1,4 @@
-![nitinpatil's-readme](https://)
+![nitinpatil's-readme](https://raw.githubusercontent.com/nitinpatil1992/nitinpatil1992/main/.github/images/wave-me.gif)
 
 - 🔭 I’m currently working on eks migrations
 - 🌱 I’m currently learning responsive UI in free tim
