@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on eks migrations
 - 🌱 I’m currently learning responsive UI in free time
 - 👯 I’m looking to collaborate on Cloud Native stuff
-- 🤔 I’m looking for help with EKS, Terraform, Golang, Obeservibility and Incident Management
+- 🤔 Reach out if you need help with EKS, Terraform, Golang, Obeservibility and Incident Management
 - 💬 Ask me about AWS, k8s
 
 <a href="mailto:patil16nit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
